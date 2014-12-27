@@ -7,4 +7,6 @@ sharing: true
 footer: true
 ---
 
-TODO
+I'm Shane Gordon. I'm a Biochemist/Molecular Modeller, currently drumming away at a PhD at La Trobe University, Melbourne.
+
+You can find me on [Twitter](https://twitter.com/Shane_Gordo), [GitHub](https://github.com/gordo1), and [500px](https://500px.com/shaneegordon).

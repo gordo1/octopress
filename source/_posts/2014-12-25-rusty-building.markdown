@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Rusty-Building"
+title: "Rusty Building"
 date: 2014-12-25 14:18:28 +1100
 comments: true
-categories:
+categories: [500px, buildings, images, sydney]
 ---
 
 <!--Enable embedded 500px images-->
