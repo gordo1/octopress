@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://gordo1.github.io
+url: http://s-gordon.github.io
 title: Shane 
 subtitle: Musings on photography, 3D printing, and programming bits
 author: Shane Gordon
@@ -64,7 +64,7 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user: gordo1
+github_user: s-gordon
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
